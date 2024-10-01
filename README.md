@@ -1,3 +1,5 @@
+This work is provided for viewing and educational purposes. You are welcome to read, share, and benefit from the contents; however, no modifications or alterations are allowed. Please respect the original work as it is presented.
+
 # Problem-Based-Learning-and-Research-Methodologies
 This repository contains two academic writing projects:  
 
